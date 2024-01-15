@@ -3,7 +3,9 @@
 
 - 🔭 I’m passionate about **low level / systems programming and back-end development**
 
-- 🌱 I’m currently learning **Rust , C++ , C , React , Springboot**
+- 🌱 I’m currently learning **C++ , React , Springboot**
+  
+- ⚙️ Proficient in **Java , C , C#,  Python, JavaScript/TypeScript, Rust**
 
 - 📫 How to reach me **kariemtrek@gmail.com**
 
