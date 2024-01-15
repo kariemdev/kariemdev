@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kariem</h1>
+<h1 align="center">Hello , I'm Kariem !</h1>
 <h3 align="center">Im a CS Student residing in Germany.</h3>
 
 - 🔭 I’m passionate about **low level / systems programming and back-end development**
